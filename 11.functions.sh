@@ -6,4 +6,4 @@ my_function(){
 
 ###itself no output when we call it
 
-myfunction
+my_function()
