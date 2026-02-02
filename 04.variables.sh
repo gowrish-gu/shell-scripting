@@ -3,6 +3,8 @@
 PERSON1=$1 #no space between value and =
 PERSON2=$2
 
+###Arguments are passing###
+
 echo "$PERSON2:: Hello $PERSON1, How are you?"
 echo "$PERSON1:: Hi $PERSON2, I am fine thanks for asking, How are you?"
 echo "$PERSON2:: doing fine. What are you learning $PERSON1?"
