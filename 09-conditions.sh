@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Number=$1
+NUMBER=$1
 
 #Argument passing through command line
 
@@ -10,7 +10,7 @@ Number=$1
 # -ne not euals to
 
 if [ $Number -gt 20 ]; then
-    echo "Given number is $Number greater than 20"
+    echo "Given is $NUMBER greater than 20"
 
 fi
-    echo "Given number is $Number lesser than 20"
+    echo "Given number is $NUMBER lesser than 20"
