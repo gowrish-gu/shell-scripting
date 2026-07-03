@@ -10,9 +10,9 @@ NUMBER=$1
 # -ne not euals to
 
 if [ $Number -gt 20 ]; then
-    echo "Given is $NUMBER greater than 20"
+    echo "Given is $NUMBER is greater than 20"
 else
-    echo "Given number is $NUMBER lesser than 20"
+    echo "Given number is $NUMBER is lesser than 20"
 
 fi
     
