@@ -7,8 +7,8 @@ Number=25
 # -eq equals to
 # -ne not euals to
 
-if [ $Number -gt 30 ]; then
-    echo "Greater than 25"
+if [ $Number -gt 20 ]; then
+    echo "Given number is $Number greater than 20"
 
 fi
-    echo "Less than 25"
+    
