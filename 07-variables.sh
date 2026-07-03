@@ -13,3 +13,4 @@ echo "PID is : $$"
 sleep 100 &
 echo "PID of recently executed backdround process: $!"
 echo "All arguments to script : $*"
+echo "Exit status of previous command : $?"
