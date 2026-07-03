@@ -9,7 +9,7 @@ NUMBER=$1
 # -eq equals to
 # -ne not euals to
 
-if [ $Number -gt 20 ]; then
+if [ $NUMBER -gt 20 ]; then
     echo "Given is $NUMBER is greater than 20"
 else
     echo "Given number is $NUMBER is lesser than 20"
