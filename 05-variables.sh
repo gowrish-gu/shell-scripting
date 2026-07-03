@@ -16,5 +16,5 @@ echo
 echo "your username is $USER_NAME"
 echo "your gmail-id is $GMAIL_ID"
 
-echo Thank you...!
+echo Thank you...! for login
 
