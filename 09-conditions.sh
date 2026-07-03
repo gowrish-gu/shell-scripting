@@ -1,6 +1,8 @@
 #!/bin/bash
 
-Number=5
+Number=$1
+
+#Argument passing through command line
 
 # -gt greater than
 # -lt less than
