@@ -14,7 +14,7 @@ if [ $USER_ID -eq 0 ]; then
     
 else
     echo "Please switch to root user or run the script with sudo"
-    
+    exit 1
 fi
 
 
