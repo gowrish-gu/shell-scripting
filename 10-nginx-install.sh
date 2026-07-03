@@ -7,7 +7,7 @@ if [ $USER_ID -eq 0 ]; then
     dnf install nginx -y
     
 else
-    sudo "Please switch to root user or run the script with sudo"
+    echo "Please switch to root user or run the script with sudo"
     
 fi
 
