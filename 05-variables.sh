@@ -8,6 +8,9 @@ read USER_NAME
 echo "enter your gmail-id"
 read GMAIl_ID
 
+echo "enter your password"
+read -s PASSWORD
+#-s hide the password
 echo 
 
 echo "your username is $USER_NAME"
